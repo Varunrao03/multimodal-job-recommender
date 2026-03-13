@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+openai
+pymupdf
+python-dotenv
+whisper
+open_clip_torch
+torch
+Pillow
