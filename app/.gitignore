@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+
+# Whisper model cache
+~/.cache/whisper/
+
+# Node
+node_modules/
+.next/
+
+# Qdrant local data
+qdrant_storage/
+
+# Large model files
+*.pt
+*.bin
+*.onnx
